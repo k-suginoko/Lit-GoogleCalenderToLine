@@ -37,7 +37,7 @@ Token名とどのグループ（個人）に送るか決めます。
 ### 4.GASを書いていく
 GASを書いていきます。内容は「仕様」で記載した通りです。
 
-設定したgsファイルは[GoogleCalenderNoticeBts.gs](GoogleCalenderNoticeBts.gs)として保存してます。
+設定したgsファイルは[GoogleCalenderNoticeBts.gs](https://github.com/k-suginoko/Lit-GoogleCalenderToLine/blob/main/GoogleCalenderNoticeBot.gs)として保存してます。
 
 こちらのソースを`スプレットシート` を作成して
 
